@@ -8,6 +8,6 @@
     "url": "git@github.com:gosquared/twitter-oauth.git"
   },
   "dependencies": {
-    "oauth": "~0.9.7"
+    "oauth": "https://github.com/fgd99/node-oauth/tarball/870e60e9d2ab0a28974fef4f9a68f2df97692f43"
   }
 }
